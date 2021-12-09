@@ -16,6 +16,7 @@ name=movie.Scores("coco",2017)
 ```
 ## Output
 `{'audiencescore': '94', 'tomatometerscore': '57'}
+{'audiencescore': '94', 'tomatometerscore': '97'}
 `
 ## Installation
 ```python
